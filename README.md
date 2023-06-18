@@ -1,11 +1,11 @@
-About r-stapler
-===============
+About r-stapler-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stapler-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/muschellij2/stapler
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stapler-feedstock/blob/main/LICENSE.txt)
 
 Summary: An implementation of Simultaneous Truth and  Performance Level Estimation (STAPLE) <doi:10.1109/TMI.2004.828354>.  This method is used when there are multiple raters for an object, typically an image, and this method fuses these ratings into one rating.  It uses an expectation-maximization method to estimate this rating and the individual specificity/sensitivity for each rater.
 
